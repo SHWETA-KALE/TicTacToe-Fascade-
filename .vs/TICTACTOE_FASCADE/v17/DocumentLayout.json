@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Assignments\\TICTACTOE_FASCADE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\exceptions\\cellnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +35,12 @@
       "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\enums\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\enums\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\enums\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\enums\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|solutionrelative:tictactoe_fascade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A1D225-4ACF-4AB2-A4B1-1F8C1C426207}|TICTACTOE_FASCADE\\TICTACTOE_FASCADE.csproj|d:\\assignments\\tictactoe_fascade\\tictactoe_fascade\\controller\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "InvalidInputException.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Exceptions\\InvalidInputException.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Exceptions\\InvalidInputException.cs",
@@ -84,38 +84,21 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Game.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Models\\Game.cs",
               "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Game.cs",
               "RelativeToolTip": "TICTACTOE_FASCADE\\Models\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T15:53:51.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResultType.cs",
-              "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Enums\\ResultType.cs",
-              "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Enums\\ResultType.cs",
-              "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Enums\\ResultType.cs",
-              "RelativeToolTip": "TICTACTOE_FASCADE\\Enums\\ResultType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:19:51.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MarkType.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Enums\\MarkType.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Enums\\MarkType.cs",
@@ -123,51 +106,50 @@
               "RelativeToolTip": "TICTACTOE_FASCADE\\Enums\\MarkType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:19:14.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T15:19:14.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ResultAnalyzer.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\ResultAnalyzer.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Models\\ResultAnalyzer.cs",
               "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\ResultAnalyzer.cs",
               "RelativeToolTip": "TICTACTOE_FASCADE\\Models\\ResultAnalyzer.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwFEAAAA/AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T15:15:48.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cell.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Cell.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Models\\Cell.cs",
               "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Cell.cs",
               "RelativeToolTip": "TICTACTOE_FASCADE\\Models\\Cell.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAAANAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T15:15:34.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Board.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Board.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Models\\Board.cs",
               "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Board.cs",
               "RelativeToolTip": "TICTACTOE_FASCADE\\Models\\Board.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T15:15:23.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CellAlreadyMarkedException.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Exceptions\\CellAlreadyMarkedException.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Exceptions\\CellAlreadyMarkedException.cs",
@@ -175,12 +157,11 @@
               "RelativeToolTip": "TICTACTOE_FASCADE\\Exceptions\\CellAlreadyMarkedException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:17:34.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T15:17:34.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CellNotFoundException.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Exceptions\\CellNotFoundException.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Exceptions\\CellNotFoundException.cs",
@@ -188,12 +169,15 @@
               "RelativeToolTip": "TICTACTOE_FASCADE\\Exceptions\\CellNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:18:21.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T15:18:21.809Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Models\\Player.cs",
               "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Models\\Player.cs",
@@ -206,6 +190,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultType.cs",
+              "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Enums\\ResultType.cs",
+              "RelativeDocumentMoniker": "TICTACTOE_FASCADE\\Enums\\ResultType.cs",
+              "ToolTip": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Enums\\ResultType.cs",
+              "RelativeToolTip": "TICTACTOE_FASCADE\\Enums\\ResultType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:19:51.946Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Assignments\\TICTACTOE_FASCADE\\TICTACTOE_FASCADE\\Controller\\MainMenu.cs",
@@ -214,8 +210,7 @@
               "RelativeToolTip": "TICTACTOE_FASCADE\\Controller\\MainMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:02:52.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T16:02:52.268Z"
             },
             {
               "$type": "Document",

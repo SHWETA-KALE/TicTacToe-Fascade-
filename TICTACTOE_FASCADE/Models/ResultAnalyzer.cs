@@ -19,7 +19,7 @@ namespace TICTACTOE_FASCADE.Models
 
         public ResultType AnalyzeResult()
         {
-            //checking for winning cond
+            //checking for winning condition
             if (HorizontalWinCheck() || VerticalWinCheck() || DiagonalWinCheck())
             {
                 return ResultType.WIN;
@@ -45,12 +45,7 @@ namespace TICTACTOE_FASCADE.Models
                 }
             }
             return false;
-            //if ()
-            //{
-            //    bool row1 = cell[0] == cell[1] && cell[1] == cell[2];
-            //    bool row2 = grid[3] == grid[4] && grid[4] == grid[5];
-            //    bool row3 = grid[6] == grid[7] && grid[7] == grid[8];
-            //}
+            
 
         }
         private bool VerticalWinCheck()

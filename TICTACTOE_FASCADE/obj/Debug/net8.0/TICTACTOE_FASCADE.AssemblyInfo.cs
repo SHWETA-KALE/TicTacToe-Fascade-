@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TICTACTOE_FASCADE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0b12c057a1c3d8a023621b25a0ce3302cf8d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("TICTACTOE_FASCADE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TICTACTOE_FASCADE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

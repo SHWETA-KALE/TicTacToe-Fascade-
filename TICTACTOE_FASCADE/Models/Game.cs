@@ -57,6 +57,7 @@ namespace TICTACTOE_FASCADE.Models
                 DisplayBoard(); // Display the board at the end of the game
                 Console.WriteLine("It's a Draw!");
             }
+            
         }
 
         private void DisplayBoard()

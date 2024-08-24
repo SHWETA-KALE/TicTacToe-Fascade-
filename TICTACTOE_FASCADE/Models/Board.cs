@@ -42,9 +42,5 @@ namespace TICTACTOE_FASCADE.Models
             cells[loc].SetMark(mark);
         }
 
-        internal void SetCellMark(object choice, MarkType mark)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
