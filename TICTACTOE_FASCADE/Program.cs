@@ -7,6 +7,11 @@ namespace TICTACTOE_FASCADE
     {
         static void Main(string[] args)
         {
+            StartGame();
+        }
+
+        private static void StartGame()
+        {
             Player player1 = new Player("Allen", MarkType.X);
             Player player2 = new Player("Mary", MarkType.O);
 
